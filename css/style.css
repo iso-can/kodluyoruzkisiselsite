@@ -11,3 +11,14 @@ ul {
     color: #0000FF;
     font-style: oblique;
 }
+
+/* Class */
+
+.text-red {
+    color: #ff0000;
+}
+
+.nav-position {
+    list-style-position: inside;
+    display: inline-block;
+}
